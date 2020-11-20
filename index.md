@@ -10,7 +10,7 @@
 
 ### 由于技术力缺失，麻烦使用**ctrl+f**来在很多项目的搜索你想要的一项。  
 
-**[常见问题](https://zyphigros.github.io/faq.md)  
+**[常见问题](/faq.html)  
 [音 游 术 语](https://zyphigros.github.io/sy.md)  
 [定数表](https://zyphigros.github.io/ds.md)  
 [鞋 垫 视 频](https://zyphigros.github.io/xd.md)  
