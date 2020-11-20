@@ -1,6 +1,7 @@
 # 欢迎来到ZYPhigros  
   **这是一个非官方的Phigros网站。**  
-  如你所见，这个网站现仍然在建设中。  
+  如你所见，这个网站现仍然在建设中。   
+**请注意：这个域名站点正在迁移数据中，请访问[ZYPhigros/welcome](https://zyphigros.github.io/welcome/)** 
   为了让这个网站看上去更 高 大 上 ，我使用了 [Jekyll](https://jekyllrb.com/) 来创建本网站。  
   本网站的转载内容可能未经过原作者同意，如果你有疑惑，请联系我删除  
 另外，本网站的建设者是毫无技术力的 [紫云-WASTED](https://space.bilibili.com/388705353) 。希望这个网站可以帮到你。  
