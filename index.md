@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# 欢迎来到ZYPhigros  
+  **这是一个非官方的Phigros网站。**  
+  如你所见，这个网站现仍然在建设中。  
+  为了让这个网站看上去更 高 大 上 ，我使用了 [Jekyll](https://jekyllrb.com/) 来创建本网站。  
+  本网站的转载内容可能未经过原作者同意，如果你有疑惑，请联系我删除  
+另外，本网站的建设者是毫无技术力的 [紫云-WASTED](https://space.bilibili.com/388705353) 。希望这个网站可以帮到你。  
+如果你也想参与帮助网站的建设，可以联系我，毕竟我真的是一个完全没有技术力的鸽子学生党（悲）。   
+<link rel="icon" href="Phigros.ico" type="image/x-icon"/>  
+## 请点击下方蓝字传送--
 
-You can use the [editor on GitHub](https://github.com/zyphigros/zyphigros.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 由于技术力缺失，麻烦使用**ctrl+f**来在很多项目的搜索你想要的一项。  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyphigros/zyphigros.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[常见问题](https://zyphigros.github.io/faq.md)  
+[音 游 术 语](https://zyphigros.github.io/sy.md)  
+[定数表](https://zyphigros.github.io/ds.md)  
+[鞋 垫 视 频](https://zyphigros.github.io/xd.md)  
+  其实Phigros的东西基本在萌娘百科上都有啊，那我是在图个啥啊（悲）**  
